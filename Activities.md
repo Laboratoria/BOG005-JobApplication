@@ -180,7 +180,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">Entre el 10 de octubre y el 14 de octubre</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -232,7 +232,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 17 de octubre y el 21 de octubre</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -251,7 +251,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 17 de octubre y el 28 de octubre</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -310,7 +310,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>5 de noviembre</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -348,7 +348,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>4 de noviembre</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -381,7 +381,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>7 de noviembre</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -405,7 +405,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 14 de noviembre y 25 de noviembre</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -461,7 +461,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>29 de noviembre</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
