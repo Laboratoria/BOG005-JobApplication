@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td> 5 de septiembre 2022 </td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td> 6 de septiembre 2022 </td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -74,7 +74,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>30 de septiembre 2022</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -125,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 17 de octubre y el 28 de cotubre</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -157,7 +157,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>5 de septiembre 2022</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
