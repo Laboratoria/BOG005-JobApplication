@@ -328,7 +328,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>20 y 27 de octubre </td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
