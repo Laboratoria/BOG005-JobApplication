@@ -366,11 +366,7 @@
             (PPT)
           </a>
         </li>
-        <li>
-          OH para ver perfil de Github (son opcionales y puedes usar las que
-          ya tienen disponibles lxs coaches).
-        </li>
-      </ul>
+             </ul>
     </td>
     <td>Perfil de GitHub</td>
     <td>NA</td>
